@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    Background-color: #e3e0c1;
+}
+
+h3{
+    Text-align: Center;
+}
+
+.one{
+    Background-color: #0bd40b;
+    Text-align: Center;
+    Font-size: 40px;
+    color: #c41627;
+}
+
+.two{
+    Background-color: #d6681e;
+    Font-size: 28px;
+    color: #4923cf;
+}
+
+.Three {
+    Background-color: hwb(204 30% 42%);
+    Text-align: Centre;
+    Font-size: 48px;
+color: #d79cff;
+
+}
+
+.Four {
+    Background-color: #8147a7;
+    Font-size: 28px;
+color: aquamarine;
+}
+
+.six{
+    Background-color: #98e320;
+    Text-align: Centre;
+    Font-size: 48px;
+    color: #984fbd;
+}
+
+.Seven {
+    background-color: #d136a3;
+    Font-size : 28px;
+    color: #dbf0d7;
+}
